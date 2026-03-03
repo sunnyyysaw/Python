@@ -1,45 +1,54 @@
-# Data Science & AI Mastery: Practical Implementation
-Welcome to my learning repository! This project serves as a comprehensive archive of my journey through the world of Data Science, from foundational statistics to advanced Artificial Intelligence.
+# Data Science & AI Mastery: Practical Implementation 🚀
+
+Welcome to my learning repository! This project serves as a comprehensive archive of my journey through the world of Data Science—from foundational statistics to advanced Artificial Intelligence. 
 
 The goal of this repo is to document practical implementations, experiments with different algorithms, and end-to-end projects.
 
-📌 Roadmap & Core Modules
-1. Exploratory Data Analysis (EDA)
-Understanding the "story" behind the data.
+## 📌 Roadmap & Core Modules
 
-Techniques: Univariate/Bivariate analysis, handling missing values, outlier detection.
+### 1. Exploratory Data Analysis (EDA) 🔍
+*Understanding the "story" behind the data.*
+- **Techniques:** Univariate/Bivariate/Multivariate analysis, handling missing values, outlier detection using Z-score/IQR.
+- **Libraries:** `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Plotly`.
+- **Focus:** Identifying patterns, distribution analysis, and correlation heatmaps before modeling.
 
-Libraries: Pandas, NumPy, Matplotlib, Seaborn, Plotly.
+### 2. Feature Engineering 🛠️
+*The art of transforming raw data into meaningful inputs for ML models.*
+- **Scaling:** `StandardScaler`, `MinMaxScaler`, `RobustScaler`.
+- **Encoding:** One-Hot Encoding, Label Encoding, Target Encoding.
+- **Transformation:** Log transforms, Box-Cox, handling skewed data.
+- **Creation:** Polynomial features, date-time extraction, and domain-specific feature creation.
 
-Focus: Identifying patterns and correlations before modeling.
+### 3. Machine Learning (ML) 🤖
+*Implementing supervised and unsupervised learning algorithms.*
+- **Regression:** Linear, Ridge, Lasso, ElasticNet.
+- **Classification:** Logistic Regression, KNN, SVM, Naive Bayes.
+- **Ensemble Methods:** Random Forest, AdaBoost, Gradient Boosting, XGBoost, CatBoost.
+- **Clustering:** K-Means, Hierarchical Clustering, DBSCAN.
 
-2. Feature Engineering
-The art of transforming raw data into meaningful inputs for ML models.
+### 4. Artificial Intelligence (AI) & Deep Learning 🧠
+*Exploring neural networks and specialized AI domains.*
+- **Neural Networks:** ANN (Multi-layer Perceptron), CNN (Computer Vision), RNN/LSTM (Time Series).
+- **NLP:** Text preprocessing, Word Embeddings (Word2Vec, GloVe), Transformers (BERT, GPT basics).
+- **Frameworks:** `TensorFlow`, `Keras`, `PyTorch`.
 
-Scaling: StandardScaler, MinMaxScaler.
+---
 
-Encoding: One-Hot Encoding, Label Encoding, Target Encoding.
+## 📈 Current Learning Goals
+- [ ] Master Model Deployment using **Flask** and **Docker**.
+- [ ] Implement **MLOps** basics (tracking experiments with MLFlow).
+- [ ] Explore **Generative AI** (RAG - Retrieval Augmented Generation).
+- [ ] Optimization of Hyperparameters using **Optuna**.
 
-Transformation: Log transforms, Box-Cox, handling skewed data.
+---
 
-Creation: Polynomial features, date-time extraction, and domain-specific feature creation.
+## 🤝 Connect with Me
+If you have suggestions or want to collaborate on a data project, feel free to reach out!
 
-3. Machine Learning (ML)
-Implementing supervised and unsupervised learning algorithms.
+- **LinkedIn:** [Sunny Saw](https://www.linkedin.com/in/sunnysaw)
+- **Portfolio:** [sunnyyysaw.github.io/portfolio/](https://sunnyyysaw.github.io/portfolio/)
+- **Email:** [sunnysaw.work@gmail.com](mailto:sunnysaw.work@gmail.com)
 
-Regression: Linear, Ridge, Lasso, ElasticNet.
+---
 
-Classification: Logistic Regression, KNN, SVM, Naive Bayes.
-
-Ensemble Methods: Random Forest, AdaBoost, Gradient Boosting, XGBoost, CatBoost.
-
-Clustering: K-Means, Hierarchical Clustering, DBSCAN.
-
-4. Artificial Intelligence (AI) & Deep Learning
-Exploring neural networks and specialized AI domains.
-
-Neural Networks: ANN, CNN (Computer Vision), RNN/LSTM (Time Series).
-
-NLP: Text preprocessing, Word Embeddings (Word2Vec, GloVe), Transformers.
-
-Frameworks: TensorFlow, Keras, PyTorch.
+> *“Data is the new oil. It’s valuable, but if unrefined it cannot really be used.”* – **Clive Humby**
