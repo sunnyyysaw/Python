@@ -33,19 +33,17 @@ The goal of this repo is to document practical implementations, experiments with
 - **Clustering:** K-Means, Hierarchical Clustering, DBSCAN.
 
 
-<img width="1001" height="471" alt="image" src="https://github.com/user-attachments/assets/efb2ebe2-6625-4223-9e50-722d2cd72124" />
+<img width="600" height="471" alt="image" src="https://github.com/user-attachments/assets/efb2ebe2-6625-4223-9e50-722d2cd72124" />
 
 
+---
 
+## 📈 Current Learning Goals
 ### 4. Artificial Intelligence (AI) & Deep Learning 🧠
 *Exploring neural networks and specialized AI domains.*
 - **Neural Networks:** ANN (Multi-layer Perceptron), CNN (Computer Vision), RNN/LSTM (Time Series).
 - **NLP:** Text preprocessing, Word Embeddings (Word2Vec, GloVe), Transformers (BERT, GPT basics).
 - **Frameworks:** `TensorFlow`, `Keras`, `PyTorch`.
-
----
-
-## 📈 Current Learning Goals
 - [ ] Master Model Deployment using **Flask** and **Docker**.
 - [ ] Implement **MLOps** basics (tracking experiments with MLFlow).
 - [ ] Explore **Generative AI** (RAG - Retrieval Augmented Generation).
